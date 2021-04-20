@@ -15,7 +15,7 @@ const Navigation = () => (
           <TextLink href="">Charity Selection</TextLink>
         </li>
         <li>
-          <TextLink href="">d</TextLink>
+          <TextLink href="">Sign Up</TextLink>
         </li>
         <li>
           <TextLink href="">Stripe</TextLink>
