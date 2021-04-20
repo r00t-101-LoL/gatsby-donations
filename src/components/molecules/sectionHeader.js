@@ -24,7 +24,7 @@ const SectionHeader = () => {
         <Img fluid={data.file.childImageSharp.fluid} />
       </Image>
       <Content>
-        <h1>Do More, Make Change</h1>
+        <h1>Support Causes You Care About</h1>
         <p>
           Donate to any nonprofit in the United States at the tap of a button and share your cause with friends to help change the world.{" "}
         </p>
