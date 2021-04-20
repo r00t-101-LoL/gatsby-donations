@@ -26,7 +26,7 @@ const SectionHeader = () => {
       <Content>
         <h1>Support Causes You Care About</h1>
         <p>
-          Donate to any nonprofit in the United States at the tap of a button and share your cause with friends to help change the world.{" "}
+          s an alliance of more than 120 of America's best charities. Our 501(c)(3) high-impact nonprofit members are reviewed annually and must meet specific eligibility criteria before they’re approved for membership. Search below to learn more about our nonprofit members' work and learn how you can support them through workplace giving. {" "}
         </p>
         <DonationForm />
       </Content>
