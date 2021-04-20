@@ -4,9 +4,7 @@ const Logo = () => (
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.93701in" height="3.93701in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 3.93701 3.93701"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  
- </defs>
+ 
  <g id="Layer_x0020_1_x1010__x1010__x1010__x1010__x1010__x1010__x1010__x1010__xe645__xa3f3__xf2e3_诅矸_x4021__x0cb4_幛">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g id="_142087688">
