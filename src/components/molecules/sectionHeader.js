@@ -24,7 +24,7 @@ const SectionHeader = () => {
         <Img fluid={data.file.childImageSharp.fluid} />
       </Image>
       <Content>
-        <h1>TrustFund</h1>
+        <h1>Do More Fund Raising</h1>
         <p>
           Set up beautiful donations forms with a flexible back-end. Built on
           top of Stripe. No coding, merchant account, or hosting required.
