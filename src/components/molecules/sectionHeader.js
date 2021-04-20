@@ -26,7 +26,7 @@ const SectionHeader = () => {
       <Content>
         <h1>Do More To Change</h1>
         <p>
-          Donate to any nonprofit in the United States at the tap of a button and share your Cauzes with friends to help change the world.{" "}
+          Donate to any nonprofit in the United States at the tap of a button and share your cause with friends to help change the world.{" "}
         </p>
         <DonationForm />
       </Content>
