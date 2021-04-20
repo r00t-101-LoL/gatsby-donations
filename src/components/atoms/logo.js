@@ -5,16 +5,7 @@ const Logo = () => (
 viewBox="0 0 3.93701 3.93701"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <style type="text/css">
-   <![CDATA[
-    .str0 {stroke:#FEFEFE;stroke-width:0.00694488}
-    .fil3 {fill:none}
-    .fil2 {fill:black}
-    .fil0 {fill:#C60000}
-    .fil1 {fill:white}
-    .fil4 {fill:#292829;fill-rule:nonzero}
-   ]]>
-  </style>
+  
  </defs>
  <g id="Layer_x0020_1_x1010__x1010__x1010__x1010__x1010__x1010__x1010__x1010__xe645__xa3f3__xf2e3_诅矸_x4021__x0cb4_幛">
   <metadata id="CorelCorpID_0Corel-Layer"/>
