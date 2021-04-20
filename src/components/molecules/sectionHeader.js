@@ -26,10 +26,7 @@ const SectionHeader = () => {
       <Content>
         <h1>Do More To Change</h1>
         <p>
-          Set up beautiful donations forms with a flexible back-end. Built on
-          top of Stripe. No coding, merchant account, or hosting required.
-          Create customizable donation forms that can embedded on your site.
-          Thousands of 3rd party integrations available.{" "}
+          Donate to any nonprofit in the United States at the tap of a button and share your Cauzes with friends to help change the world.{" "}
         </p>
         <DonationForm />
       </Content>
