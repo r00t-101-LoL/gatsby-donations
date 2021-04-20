@@ -18,7 +18,7 @@ const Navigation = () => (
           <TextLink href="">Sign Up</TextLink>
         </li>
         <li>
-          <TextLink href="">Stripe</TextLink>
+          <TextLink href="">About</TextLink>
         </li>
         <li>
           <Button href="">Donate</Button>
