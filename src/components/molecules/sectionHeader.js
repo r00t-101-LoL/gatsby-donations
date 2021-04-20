@@ -9,7 +9,7 @@ import { media } from "@utils/media"
 const SectionHeader = () => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
-      file(relativePath: { eq: "top.jpg" }) {
+      file(relativePath: { eq: "headerimage.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 800) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
