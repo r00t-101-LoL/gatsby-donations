@@ -12,7 +12,7 @@ const Navigation = () => (
       <Logo />
       <Links>
         <li>
-          <TextLink href="">GatsbyJs</TextLink>
+          <TextLink href="">Charities</TextLink>
         </li>
         <li>
           <TextLink href="">MoonClerk</TextLink>
